@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 6c1ea080e2e18224dac2c9508002dbb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6881974486106804269
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_0
+  - first:
+      213: -3309350584112991325
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_1
+  - first:
+      213: 594631902984639197
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_2
+  - first:
+      213: -6304371087391135628
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_3
+  - first:
+      213: 4562116288093959042
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_4
+  - first:
+      213: 7308506310688341445
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_5
+  - first:
+      213: -3919108489502391593
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_6
+  - first:
+      213: 3114436033915394752
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_7
+  - first:
+      213: 5791791452255405547
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_8
+  - first:
+      213: -3989270061302252611
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_9
+  - first:
+      213: -1199505823563903125
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_10
+  - first:
+      213: 3149378758087813923
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_11
+  - first:
+      213: -808089094148130147
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_12
+  - first:
+      213: -3411920955439182015
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_13
+  - first:
+      213: -706490669374076663
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_14
+  - first:
+      213: -769792399714019425
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_15
+  - first:
+      213: -8962868004071561759
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_16
+  - first:
+      213: 9038799837553496775
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_17
+  - first:
+      213: -1213405629210754257
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_18
+  - first:
+      213: -2170776229785418671
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_19
+  - first:
+      213: -4034918579657279557
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_20
+  - first:
+      213: 3276055156942996459
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_21
+  - first:
+      213: -8177825038234396481
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_22
+  - first:
+      213: -2524172711145091312
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_23
+  - first:
+      213: 7132805664358714068
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_24
+  - first:
+      213: 5005497790851302323
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_25
+  - first:
+      213: 1980583276386177245
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_26
+  - first:
+      213: -7600482296759053312
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_27
+  - first:
+      213: 7962140377658106145
+    second: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 214
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2092b5355fa18f50800000000000000
+      internalID: 6881974486106804269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 214
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b6bc6d23d212d0800000000000000
+      internalID: -3309350584112991325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29385b09e804800800000000000000
+      internalID: 594631902984639197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 214
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478eec3e5ef5288a0800000000000000
+      internalID: -6304371087391135628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833dd7c794ef4f30800000000000000
+      internalID: 4562116288093959042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd774774c70d6560800000000000000
+      internalID: 7308506310688341445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 242
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20ef6d7978c99c0800000000000000
+      internalID: -3919108489502391593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 203
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca14356213b83b20800000000000000
+      internalID: 3114436033915394752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c3dcb3a3906050800000000000000
+      internalID: 5791791452255405547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7afae30443a8c0800000000000000
+      internalID: -3989270061302252611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 226
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f06780fcf7a5fe0800000000000000
+      internalID: -1199505823563903125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b2cfa5b47d4bb20800000000000000
+      internalID: 3149378758087813923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 202
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afe64104719c4f0800000000000000
+      internalID: -808089094148130147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 202
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0659d7fb66a0d0800000000000000
+      internalID: -3411920955439182015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 202
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90984d6ba7a0236f0800000000000000
+      internalID: -706490669374076663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 205
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97104814e52155f0800000000000000
+      internalID: -769792399714019425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a990a90f7d9380800000000000000
+      internalID: -8962868004071561759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 28
+        width: 34
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c21c390094407d70800000000000000
+      internalID: 9038799837553496775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 161
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230f66520e192fe0800000000000000
+      internalID: -1213405629210754257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 94
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15447c0358adfd1e0800000000000000
+      internalID: -2170776229785418671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb777e10ee61108c0800000000000000
+      internalID: -4034918579657279557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 163
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38c26dec2e67d20800000000000000
+      internalID: 3276055156942996459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85eb8a477828e80800000000000000
+      internalID: -8177825038234396481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4678fa4658fcd0800000000000000
+      internalID: -2524172711145091312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 153
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dacef3e5f0dcf260800000000000000
+      internalID: 7132805664358714068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 139
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c1b378b9177540800000000000000
+      internalID: 5005497790851302323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 119
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d31d0ff17c7b10800000000000000
+      internalID: 1980583276386177245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 63
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041804ce99a58690800000000000000
+      internalID: -7600482296759053312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_The_Legend_of_Zelda_A_Link_to_the_Past_-_Arrghus-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 30
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212b1efc743f7e60800000000000000
+      internalID: 7962140377658106145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
