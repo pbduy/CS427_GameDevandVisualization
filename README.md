@@ -10,9 +10,8 @@
 **Student name:** Pham Bao Duy
 
 #### Brief introduction of game: Flappy Birdie
-Flappy Birdie game is based on the original game - Flappy Bird. The game is a side-scroller where the player controls a bird Birdie, which moves persistently to the right. The player is tasked with navigating Birdie through pairs of column that have equally sized gaps placed at random heights. Birdie automatically drops and "flap" only when the player click the leftmouse on the screen. Each successful pass through a pair of column awards the player one point. Colliding with a column or the ground ends the gameplay.
-
-Let's play and remember: flap Bir'die' to do not die. Have fun !
+  Flappy Birdie game is based on the original game - Flappy Bird. The game is a side-scroller where the player controls a bird Birdie, which moves persistently to the right. The player is tasked with navigating Birdie through pairs of columns that have equally sized gaps placed at random heights. Birdie automatically drops and "flap" only when the player click the left-mouse on the screen. Each successful pass through pairs of columns awards the player one point. Colliding with a column or the ground ends the gameplay.
+  Let's play and remember that: flap Bir'die' to do not die. Have fun!
 
 #### Demo 
 <p align="center"><img src="https://user-images.githubusercontent.com/56706918/90380740-a4a9b600-e0a6-11ea-9338-6b0f2be55d05.gif"/></p>
